@@ -1,1 +1,11 @@
-noget text i filen
+GitHub:
+Branch. en main branch svare til Master, der hvor produktion-koden ligger og hvor andrer udvikler kan tilgå koden.
+I en produktion vil der være flere branch, eks features-branch, , som ved releasse merges.
+
+
+
+
+Terminal commando
+chmod bruges til at tildele/modificere file tryigheder på forholdsvis (r-w-x) 0-7 
+chmod 400 
+chown command bruges til at ændrer bruger/gruppe ejerskab af en given file, directory, eller symbolic link.
