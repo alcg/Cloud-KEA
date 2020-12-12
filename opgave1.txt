@@ -2,7 +2,7 @@ GitHub:
 Branch. en main branch svare til Master, der hvor produktion-koden ligger og hvor andrer udvikler kan tilgå koden.
 I en produktion vil der være flere branch, eks features-branch, , som ved releasse merges.
 
-
+hvad nu
 
 
 Terminal commando
